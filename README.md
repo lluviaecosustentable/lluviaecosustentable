@@ -74,3 +74,5 @@ Estamos construyendo una comunidad global para mejorar y adaptar este sistema. �
 Este proyecto está licenciado bajo la **[Licencia GPL](https://www.gnu.org/licenses/gpl-3.0.html)**. Eres libre de usar, modificar y distribuir el sistema bajo los mismos términos, garantizando siempre que las adaptaciones sean de código abierto.
 
 ---
+## Diseño Técnico
+El esquema técnico del sistema puede encontrarse [aquí](ruta-del-archivo-en-el-repositorio
