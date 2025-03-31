@@ -75,4 +75,4 @@ Este proyecto está licenciado bajo la **[Licencia GPL](https://www.gnu.org/lice
 
 ---
 ## Diseño Técnico
-El esquema técnico del sistema puede encontrarse [aquí](ruta-del-archivo-en-el-repositorio
+El esquema técnico del sistema puede encontrarse [aquí]([ruta-del-archivo-en-el-repositorio](https://github.com/lluviaecosustentable/lluviaecosustentable/blob/main/collect-system-rain-ecology.drawio_removed.pdf)
