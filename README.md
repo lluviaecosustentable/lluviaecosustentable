@@ -74,5 +74,94 @@ Estamos construyendo una comunidad global para mejorar y adaptar este sistema. �
 Este proyecto está licenciado bajo la **[Licencia GPL](https://www.gnu.org/licenses/gpl-3.0.html)**. Eres libre de usar, modificar y distribuir el sistema bajo los mismos términos, garantizando siempre que las adaptaciones sean de código abierto.
 
 ---
-## Diseño Técnico
-El esquema técnico del sistema puede encontrarse [aquí]([ruta-del-archivo-en-el-repositorio](https://github.com/lluviaecosustentable/lluviaecosustentable/blob/main/collect-system-rain-ecology.drawio_removed.pdf)
+### *Diseño Técnico del Sistema*
+El diseño técnico del sistema autónomo de recolección de agua lluvia incluye los siguientes componentes clave:
+
+*1. Teja y Canal*:
+   - *Función*: La teja del tejado y el canal inicial capturan el agua lluvia y la dirigen hacia la bajante principal.
+   - *Importancia*: Asegura una recogida inicial eficiente desde el tejado sin pérdida significativa de agua.
+
+*2. Tubería Principal (3 pulgadas)*:
+   - *Función*: Transporta el agua desde el tejado hacia el sistema de filtración.
+   - *Importancia*: Este diámetro es esencial para manejar volúmenes grandes durante lluvias intensas.
+
+*3. Reductor (3x2 pulgadas)*:
+   - *Función*: Regula el flujo de agua y dirige la presión inversa hacia los puntos superiores.
+   - *Importancia*: Previene el rebose y asegura un flujo constante hacia el filtro.
+
+*4. Tubería Secundaria (2 pulgadas)*:
+   - *Función*: Conecta el reductor con el sistema de filtración y el tanque principal.
+   - *Importancia*: También sirve como válvula de escape para el exceso de presión.
+
+*5. Filtro Purificador*:
+   - *Componentes*: 
+      - Malla para partículas grandes.
+      - Esponja para absorber impurezas menores.
+      - Piedras de carbón para mejorar la calidad del agua.
+   - *Función*: Garantiza que el agua recolectada sea apta para higiene y usos domésticos.
+   - *Importancia*: Es un elemento crítico para la reutilización segura del agua.
+
+*6. Tanque Principal*:
+   - *Función*: Almacena el agua purificada y regula el nivel con una válvula (pera).
+   - *Importancia*: Su diseño elevado permite la distribución directa a otros dispositivos como inodoros y lavadoras.
+
+*7. Sistema Auxiliar de Rebose*:
+   - *Componentes*:
+      - Tubería (1/3 pulgadas).
+      - Hoyos de válvula para liberar presión.
+   - *Función*: Previene inundaciones en caso de sobrecarga del tanque.
+   - *Importancia*: Asegura la autonomía y seguridad del sistema.
+
+*8. Conexiones Domésticas*:
+   - *Función*: Dirigen el agua almacenada hacia inodoros y lavadoras para su uso inmediato.
+   - *Importancia*: Promueven la eficiencia y sustentabilidad en el hogar.
+
+---
+
+### *Diseño Técnico del Sistema y modo de funcionamiento*
+El diseño técnico del sistema autónomo de recolección de agua lluvia incluye los siguientes componentes clave:
+
+*1. Teja y Canal*:
+   - *Función*: La teja del tejado y el canal inicial capturan el agua lluvia y la dirigen hacia la bajante principal.
+   - *Importancia*: Asegura una recogida inicial eficiente desde el tejado sin pérdida significativa de agua.
+
+*2. Tubería Principal (3 pulgadas)*:
+   - *Función*: Transporta el agua desde el tejado hacia el sistema de valvula.
+   - *Importancia*: Este diámetro es esencial para manejar volúmenes grandes durante lluvias intensas y suaves.
+
+*3. Reductor (3x2 pulgadas y Tubería Secundaria (2 pulgadas)*:
+   - *Función* 1: Regula el flujo de agua y dirige la presión inversa hacia los puntos u hoyos superiores dela valvula cuando la lluvia es intensa, el flujo de agua pasa atraves de la parte inferior de la valvula que actua como canal cuando la lluvia es suave.
+   - - *Función* 2: Conecta el reductor con el sistema de filtración
+   - *Importancia* 1: Previene el rebose y asegura un flujo constante hacia el filtro y tambien el flujo inverso hacia la valvula.
+
+*4. Filtro Purificador*:
+   - *Componentes*: 
+      - Malla para partículas grandes (se coloca al incio de ls semicodos).
+      - Esponja para absorber impurezas menores( se ubica justo detras de la malla).
+      - Piedras de carbón para mejorar la calidad del agua (se cituan detras de la esponja).
+   - *Función*: Garantiza que el agua recolectada sea apta para higiene y usos domésticos.
+   - *Importancia*: Es un elemento crítico para la reutilización segura del agua.
+
+     *5.tuberia de media 1/2(tuberia terciaria)*:
+     -*funcion* Se encarga de recibir el agua filtrada y dirigirla hacia el tanque.
+
+*6. Tanque Principal*:
+   - *Función*: Almacena el agua purificada y regula el nivel con una válvula (pera).
+   - *Importancia*: Su diseño elevado permite la distribución directa a otros dispositivos como inodoros y lavadoras.
+
+*7. Sistema Auxiliar de Rebose*:
+   - *Componentes*:
+      - Tubería (1/3 pulgadas).
+      - Hoyos de válvula para liberar presión.
+   - *Función*: Previene inundaciones en caso de sobrecarga del tanque.
+   - *Importancia*: Asegura la autonomía y seguridad del sistema.
+
+*8. Conexiones Domésticas*:
+   - *Función*: Dirigen el agua almacenada hacia inodoros y lavadoras para su uso inmediato.
+   - *Importancia*: Promueven la eficiencia y sustentabilidad en el hogar.
+
+---
+
+### *Referencias Técnicas*
+- *Esquema Visual*: El diseño completo está disponible aquí: [Diseño Técnico](https://github.com/lluviaecosustentable/lluviaecosustentable/blob/main/collect-system-rain-ecology.drawio_removed.pdf).
+- *Repositorio de GitHub*: Todos los documentos, diagramas y guías están organizados en nuestro repositorio público: [Repositorio Lluvia Eco Sustentable](https://github.com/lluviaecosustentable/lluviaecosustentable.git).
