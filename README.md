@@ -168,3 +168,106 @@ El diseño técnico del sistema autónomo de recolección de agua lluvia incluye
 ### *Referencias Técnicas*
 - *Esquema Visual*: El diseño completo está disponible aquí: [Diseño Técnico](https://github.com/lluviaecosustentable/lluviaecosustentable/blob/main/collect-system-rain-ecology.drawio_removed.pdf).
 - *Repositorio de GitHub*: Todos los documentos, diagramas y guías están organizados en nuestro repositorio público: [Repositorio Lluvia Eco Sustentable](https://github.com/lluviaecosustentable/lluviaecosustentable.git).
+
+
+- ENGLISH
+  ### Technical Design of the System
+The technical design of the autonomous rainwater harvesting system includes the following key components:
+
+*Installation and Maintenance:* Introduction: This system is flexible and designed to meet the needs of each household or area. Simply keep the following considerations in mind.  
+*Installation:* We suggest avoiding the use of permanent adhesives or sealants at joints or connections to facilitate disassembly for maintenance and/or cleaning, which will only require water, a cloth, and soap.
+
+---
+
+### *Key Components*
+*1. Roof Tile and Channel:*  
+- *Function:* The roof tile and initial channel capture rainwater and direct it to the main downspout.  
+- *Importance:* Ensures efficient initial collection from the roof without significant water loss.
+
+*2. Main Pipe (3 inches):*  
+- *Function:* Transports water from the roof to the filtration system.  
+- *Importance:* This diameter is essential for handling large volumes during heavy rainfall.
+
+*3. Reducer (3x2 inches):*  
+- *Function:* Regulates water flow and directs excess pressure to upper points.  
+- *Importance:* Prevents overflow and ensures a steady flow to the filter.
+
+*4. Secondary Pipe (2 inches):*  
+- *Function:* Connects the reducer to the filtration system and main tank.  
+- *Importance:* Also serves as a valve for excess pressure release.
+
+*5. Purifying Filter:*  
+- *Components:*  
+   - Mesh for large particles.  
+   - Sponge to absorb smaller impurities.  
+   - Charcoal stones to enhance water quality.  
+- *Function:* Ensures that collected water is suitable for hygiene and domestic use.  
+- *Importance:* A critical element for the safe reuse of water.
+
+*6. Main Tank:*  
+- *Function:* Stores purified water and regulates the level with a float valve.  
+- *Importance:* Its elevated design allows direct distribution to other devices like toilets and washing machines.
+
+*7. Auxiliary Overflow System:*  
+- *Components:*  
+   - Pipe (1/3 inches).  
+   - Valve holes to release pressure.  
+- *Function:* Prevents flooding in case of tank overload.  
+- *Importance:* Ensures the system's autonomy and safety.
+
+*8. Domestic Connections:*  
+- *Function:* Direct stored water to toilets and washing machines for immediate use.  
+- *Importance:* Promotes efficiency and sustainability at home.
+
+---
+
+### Extended Mode of Operation
+The technical design operates as follows:
+
+*1. Roof Tile and Channel:*  
+- *Function:* Captures rainwater and directs it efficiently to the downspout.  
+- *Importance:* Reduces loss and ensures smooth flow.
+
+*2. Main Pipe (3 inches):*  
+- *Function:* Transports water to the valve system.  
+- *Importance:* Adapts to heavy or light rain conditions.
+
+*3. Reducer (3x2 inches and Secondary Pipe (2 inches):*  
+- *Function 1:* Manages flow and directs excess pressure to the valve's upper points during heavy rain. During light rain, water flows through the valve's bottom.  
+- *Function 2:* Connects the reducer to the filtration system.  
+- *Importance:* Ensures constant flow to the filter and controls reverse flow.
+
+*4. Purifying Filter:*  
+- *Components:*  
+   - Mesh positioned at the beginning of the elbows.  
+   - Sponge located behind the mesh to absorb impurities.  
+   - Charcoal stones placed behind the sponge for water quality enhancement.  
+- *Function:* Guarantees clean water suitable for hygiene and domestic uses.  
+- *Importance:* Vital for safe reuse.  
+
+*5. Tertiary Pipe (1/2 inches):*  
+- *Function:* Receives filtered water and directs it to the tank.  
+
+*6. Main Tank:*  
+- *Function:* Stores clean water and uses a float valve for level regulation.  
+- *Importance:* Allows gravity distribution to household systems.
+
+*7. Auxiliary Overflow System:*  
+- *Components:*  
+   - Small pipe (1/3 inches).  
+   - Pressure-release holes.  
+- *Function:* Prevents flooding during overload.  
+- *Importance:* Maintains system safety.
+
+*8. Domestic Connections:*  
+- *Function:* Links stored water to toilets and washing machines for practical use.  
+- *Importance:* Promotes sustainable resource utilization.
+
+---
+
+### Technical References
+- *Visual Scheme:* Full design available here: [Technical Design](https://github.com/lluviaecosustentable/lluviaecosustentable/blob/main/collect-system-rain-ecology.drawio_removed.pdf).  
+- *GitHub Repository:* All documents, diagrams, and guides are organized in our public repository: [Lluvia Eco Sustentable Repository](https://github.com/lluviaecosustentable/lluviaecosustentable.git).
+
+---
+
