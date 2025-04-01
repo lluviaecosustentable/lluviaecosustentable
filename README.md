@@ -77,6 +77,9 @@ Este proyecto está licenciado bajo la **[Licencia GPL](https://www.gnu.org/lice
 ### *Diseño Técnico del Sistema*
 El diseño técnico del sistema autónomo de recolección de agua lluvia incluye los siguientes componentes clave:
 
+*Instalacion y mantenimiento : INTRODUCION, este sistema es flexible y esta diseñado para ajustarse a las necesidades de cada hogar o area, simplemete temga en cuenta las siguientes consideraciones.
+*INSTALACION: Sugerimos no utilizar ningun tipo de sellante o pegamento permanente en empalmes y/o uniones de este modo facilitara el desmomte para su mantenimiento y/o limpieza, la cual solo necesitara agua, trapo y jabon.
+
 *1. Teja y Canal*:
    - *Función*: La teja del tejado y el canal inicial capturan el agua lluvia y la dirigen hacia la bajante principal.
    - *Importancia*: Asegura una recogida inicial eficiente desde el tejado sin pérdida significativa de agua.
