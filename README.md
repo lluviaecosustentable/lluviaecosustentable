@@ -20,7 +20,23 @@ Este proyecto es un sistema autónomo y circular diseñado para recolectar y fil
 ---
 
 ## *Características Clave*
-- *Recolección Inteligente*: Captación inicial desde el tejado, integrada con sistemas de control de flujo.
+- *Recolección Inteligente*:
+-### *Descripción del Sistema*
+Nuestro sistema autónomo de recolección de agua lluvia destaca por:
+1. *Funcionamiento hidráulico inverso*: Adaptado para evitar el rebose, utilizando presión sobrante de manera controlada.
+2. *Filtración eficiente*: A través de una esponja absorbente, piedras de carbón y una malla que garantizan la calidad del agua recolectada.
+3. *Diseño desmontable y accesible*: Con mantenimiento fácil, mínimo costo y sin necesidad de conocimientos técnicos.
+4. *Reutilización del agua*: Conexión directa a inodoros y lavadoras, maximizando su uso en actividades domésticas.
+5. *Pruebas de seguridad*: El agua recolectada ha sido utilizada para higiene personal sin presentar efectos adversos.
+6. *La cantidad recolectada de agua  en una jornada es de 1500 ml de agua lluvia.
+7. * costo del sistema: 
+Tanque 225.000 COP 
+Tubería 150.000 COP
+Total = 375.000 COP 
+sobre un sistema de 15 metros de distancia (El costo lo incrementa el tanque, que es reemplazable)
+El metro de este sistema con este tanque cuesta 6 dólares.Sin el tanque, el costo de este sistema cuesta 1 dolar.
+
+- Captación inicial desde el tejado, integrada con sistemas de control de flujo.
 - *Sistema Autónomo*: La válvula reguladora de nivel (o pera) permite detener automáticamente el flujo de agua cuando el tanque alcanza su capacidad máxima.
 - *Filtración Eficiente*: El agua pasa por una malla, esponja y piedras de carbón para garantizar calidad en cada uso.
 - *Adaptabilidad*: Diseñado para funcionar con materiales locales y ajustarse a las necesidades específicas de las comunidades.
