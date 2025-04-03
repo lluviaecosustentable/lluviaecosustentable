@@ -17,7 +17,7 @@ Sistema Autónomo Circular de Recolección de Agua Lluvia
 ## *Descripción del Proyecto*
 Este proyecto es un sistema autónomo y circular diseñado para recolectar y filtrar agua lluvia de manera eficiente. Nació como una solución adaptable y accesible para comunidades vulnerables, garantizando sostenibilidad y autonomía en el uso del agua. El diseño incorpora principios hidráulicos innovadores y componentes fáciles de replicar con materiales asequibles.
 ver video 1 aqui "to watch video one here, Siistema autonomo de recolección de agua lluvia1_280x500_20250402180633.mp4 " 
-ver video dos  aqui" to watch video two here"
+ver video dos  aqui" to watch video two here, Siistema autonomo de recolección de agua lluvia2_280x500.mp4 "
 ---
 
 ## *Características Clave*
