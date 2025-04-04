@@ -187,6 +187,13 @@ El diseño técnico del sistema autónomo de recolección de agua lluvia incluye
 
 
 - ENGLISH
+
+- ## *Project Description*
+This project is an autonomous and circular system designed to efficiently collect and filter rainwater. It was conceived as an adaptable and accessible solution for vulnerable communities, ensuring sustainability and autonomy in water usage. The design incorporates innovative hydraulic principles and components that are easy to replicate using affordable materials.
+
+- Download video *Lluvia 1* here: [Link](https://github.com/lluviaecosustentable/lluviaecosustentable/blob/ce6c6fcc35fe45f092265d535a9aeecb9ad2fb57/Siistema%20autonomo%20de%20recolecci%C3%B3n%20de%20agua%20lluvia1_280x500_20250402180633.mp4)
+- Download video *Lluvia 2* here: [Link](https://github.com/lluviaecosustentable/lluviaecosustentable/blob/f6dd7cf1c27ab01751b3e496997e6e6c1dc6aa75/Siistema%20autonomo%20de%20recolecci%C3%B3n%20de%20agua%20lluvia2_280x500.mp4)
+
   ### Technical Design of the System
 The technical design of the autonomous rainwater harvesting system includes the following key components:
 
