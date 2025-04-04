@@ -11,6 +11,7 @@ lluviaecosustentable/lluviaecosustentable is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 ## Licencia
+Este proyecto está licenciado bajo la **[Licencia GPL](https://www.gnu.org/licenses/gpl-3.0.html)**. Eres libre de usar, modificar y distribuir el sistema bajo los mismos términos, garantizando siempre que las adaptaciones sean de código abierto.
 Este proyecto está licenciado bajo la Licencia Pública General de GNU (GPL v3). Para más detalles, consulta el archivo LICENSE en este repositorio.
 Sistema Autónomo Circular de Recolección de Agua Lluvia
 
@@ -19,7 +20,6 @@ Este proyecto es un sistema autónomo y circular diseñado para recolectar y fil
 download video lluvia 1 aqui https://github.com/lluviaecosustentable/lluviaecosustentable/blob/ce6c6fcc35fe45f092265d535a9aeecb9ad2fb57/Siistema%20autonomo%20de%20recolecci%C3%B3n%20de%20agua%20lluvia1_280x500_20250402180633.mp4  " 
 download video lluvia 2 here (https://github.com/lluviaecosustentable/lluviaecosustentable/blob/f6dd7cf1c27ab01751b3e496997e6e6c1dc6aa75/Siistema%20autonomo%20de%20recolecci%C3%B3n%20de%20agua%20lluvia2_280x500.mp4)"
 
-Visualización de videos aqui ( to watch videos here/lluviaecosustentable.github.io/lluviaecosustentable.
 ---
 
 ## *Características Clave*
@@ -88,9 +88,6 @@ Estamos construyendo una comunidad global para mejorar y adaptar este sistema. �
 - *Comparte tu experiencia*: Si replicaste el sistema, envíanos fotos o notas de tu instalación.
 
 ---
-
-## *Licencia*
-Este proyecto está licenciado bajo la **[Licencia GPL](https://www.gnu.org/licenses/gpl-3.0.html)**. Eres libre de usar, modificar y distribuir el sistema bajo los mismos términos, garantizando siempre que las adaptaciones sean de código abierto.
 
 ---
 ### *Diseño Técnico del Sistema*
