@@ -19,7 +19,7 @@ Este proyecto es un sistema autónomo y circular diseñado para recolectar y fil
 download video lluvia 1 aqui https://github.com/lluviaecosustentable/lluviaecosustentable/blob/ce6c6fcc35fe45f092265d535a9aeecb9ad2fb57/Siistema%20autonomo%20de%20recolecci%C3%B3n%20de%20agua%20lluvia1_280x500_20250402180633.mp4  " 
 download video lluvia 2 here (https://github.com/lluviaecosustentable/lluviaecosustentable/blob/f6dd7cf1c27ab01751b3e496997e6e6c1dc6aa75/Siistema%20autonomo%20de%20recolecci%C3%B3n%20de%20agua%20lluvia2_280x500.mp4)"
 
-Visualización de videos aqui ( to watch videos here)lluviaecosustentable.github.io/. 
+Visualización de videos aqui ( to watch videos here)lluviaecosustentable.github.io/lluviaecosustentable/.
 
 ---
 
